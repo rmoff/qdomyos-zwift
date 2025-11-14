@@ -11,3 +11,8 @@ The [cardio belt provided](https://www.sports-tech.uk.com/chest-strap-sportstech
 The cardio captors are reported to not be accurate.
 #### Resistance 
 The resistance is adjusted after a few seconds delay (time for the engine to adapt magnetic resistance).
+
+## DKN AM-3i
+
+* Toorx/iConsole Options -> Set `Toorx/iConsole Bike`
+* Experimental Features -> Unset `Virtual Device Bluetooth`
